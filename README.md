@@ -25,7 +25,9 @@ It covers data cleaning, SQL queries, exploratory data analysis (EDA), and dashb
 - **Screenshots/** – Dashboard & charts  
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Screenshots/dashboard.png)
+<img width="1127" height="633" alt="Capture" src="https://github.com/user-attachments/assets/fc4c180e-8e88-4b4c-8631-4abdd499d050" />
+
+
 
 ## 🔗 LinkedIn
 https://www.linkedin.com/in/abdulhaziq71/
